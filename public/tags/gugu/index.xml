@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gugu | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/gugu/</link>
+      <atom:link href="http://localhost:1313/tags/gugu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gugu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Gugu</title>
+      <link>http://localhost:1313/tags/gugu/</link>
+    </image>
+    
+    <item>
+      <title>Documentation-Page</title>
+      <link>http://localhost:1313/project/documentation-page/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/documentation-page/</guid>
+      <description>&lt;p&gt;C++ documentation page highlighting syntax, data types, and classes—designed as a quick reference for developers.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

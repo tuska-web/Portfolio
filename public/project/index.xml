@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Documentation-Page</title>
+      <link>http://localhost:1313/project/documentation-page/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/documentation-page/</guid>
+      <description>&lt;p&gt;C++ documentation page highlighting syntax, data types, and classes—designed as a quick reference for developers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Registration-Page</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;This registration form allows users to input their first name, last name, email, password, account type, profile picture, age, and a brief bio. It features a clean and user-friendly design, making it professional and easy to use.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>http://localhost:1313/project/phtorch/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/phtorch/</guid>
+      <description>&lt;p&gt;Tic Tac Toe is a classic two-player game where players take turns marking X or O on a 3x3 grid. The goal is to align three symbols in a row, column, or diagonal to win!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
