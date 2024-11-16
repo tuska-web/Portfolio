@@ -5,36 +5,12 @@
     <link>http://localhost:1313/tags/hugo/</link>
       <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Hugo</title>
       <link>http://localhost:1313/tags/hugo/</link>
     </image>
-    
-    <item>
-      <title>Documentation-Page</title>
-      <link>http://localhost:1313/project/documentation-page/</link>
-      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/documentation-page/</guid>
-      <description>&lt;p&gt;C++ documentation page highlighting syntax, data types, and classes—designed as a quick reference for developers.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Registration-Page</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;This registration form allows users to input their first name, last name, email, password, account type, profile picture, age, and a brief bio. It features a clean and user-friendly design, making it professional and easy to use.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tic Tac Toe</title>
-      <link>http://localhost:1313/project/phtorch/</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/phtorch/</guid>
-      <description>&lt;p&gt;Tic Tac Toe is a classic two-player game where players take turns marking X or O on a 3x3 grid. The goal is to align three symbols in a row, column, or diagonal to win!&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
@@ -51,7 +27,7 @@
 
 
 
-&lt;div id=&#34;chart-234895617&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-987132645&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -69,7 +45,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-234895617&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-987132645&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

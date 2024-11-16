@@ -20,5 +20,13 @@
       <description>&lt;p&gt;C++ documentation page highlighting syntax, data types, and classes—designed as a quick reference for developers.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Registration-Page</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;This registration form allows users to input their first name, last name, email, password, account type, profile picture, age, and a brief bio. It features a clean and user-friendly design, making it professional and easy to use.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
