@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-This registration form allows users to input their first name, last name, email, password, account type, profile picture, age, and a brief bio. It features a clean and user-friendly design, making it professional and easy to use.
+This registration form  is a document with a set of fields that allows users to input their information. It features a clean and user-friendly design, making it professional and easy to use.
 
 <!--more-->

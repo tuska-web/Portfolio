@@ -34,6 +34,60 @@
     </item>
     
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h2 id=&#34;profile-picture&#34;&gt;&lt;strong&gt;PROFILE PICTURE&lt;/strong&gt;&lt;/h2&gt;
+&lt;div style=&#34;text-align: left;&#34;&gt;
+  &lt;img src=&#34;tuska.jpg&#34; alt=&#34;Profile Picture&#34; style=&#34;width:150px; height:150px; border-radius:50%; border: 2px solid #ccc;&#34; /&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;profile&#34;&gt;&lt;strong&gt;PROFILE&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;A motivated and results-oriented Computer Science and Engineering student, specializing in web design, AI, and computational graphics. Adept in multiple programming languages including C++ and C. Eager to apply my technical expertise and creativity in real-world projects while continuing to learn and grow.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;&lt;strong&gt;EDUCATION&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bachelor of Science in Computer Science and Engineering&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Institution&lt;/strong&gt;:  Jahangirnagar University&lt;/li&gt;
+&lt;li&gt;Expected Graduation: 2025&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Higher Secondary Certificate (HSC)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Institution&lt;/strong&gt;: Kushtia Govt. College&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2017–2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grade&lt;/strong&gt;: GPA 5.0/5.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Secondary School Certificate (SSC)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Institution&lt;/strong&gt;: Abdalpur High School&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2012–2017&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grade&lt;/strong&gt;: GPA 5.0/5.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experience&#34;&gt;&lt;strong&gt;EXPERIENCE&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Private Tutoring&lt;/strong&gt;&lt;br&gt;
+Provided personalized academic support through private tuition, focusing on simplifying complex topics and fostering a deep understanding among students.&lt;/p&gt;
+&lt;h2 id=&#34;languages&#34;&gt;&lt;strong&gt;LANGUAGES&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;English: Fluent&lt;/li&gt;
+&lt;li&gt;Bangla: Native&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;&lt;strong&gt;SKILLS&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;: C++, C&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Development&lt;/strong&gt;: HTML, CSS, JavaScript, Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphics&lt;/strong&gt;: OpenGL, GLUT&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools &amp;amp; Technologies&lt;/strong&gt;: Git, VS Code, GitHub, Git Bash&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operating Systems&lt;/strong&gt;: Linux, Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact-me&#34;&gt;&lt;strong&gt;CONTACT ME&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: 01781864628&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: [tuskakhatun6@gmail.com]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: Savar, Dhaka, Bangladesh&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Documentation-Page</title>
       <link>http://localhost:1313/project/documentation-page/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
@@ -46,7 +100,7 @@
       <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;This registration form allows users to input their first name, last name, email, password, account type, profile picture, age, and a brief bio. It features a clean and user-friendly design, making it professional and easy to use.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This registration form  is a document with a set of fields that allows users to input their information. It features a clean and user-friendly design, making it professional and easy to use.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -278,7 +332,7 @@
 
 
 
-&lt;div id=&#34;chart-987132645&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-748529361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +350,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-987132645&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-748529361&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
