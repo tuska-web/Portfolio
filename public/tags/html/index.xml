@@ -28,5 +28,13 @@
       <description>&lt;p&gt;This registration form  is a document with a set of fields that allows users to input their information. It features a clean and user-friendly design, making it professional and easy to use.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Tribute-Page</title>
+      <link>http://localhost:1313/project/tribute-page/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tribute-page/</guid>
+      <description>&lt;p&gt;I have attempted to build the Tribute page and although I have been successful in completing the task.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>

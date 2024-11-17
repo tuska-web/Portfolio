@@ -64,8 +64,6 @@ education:
     date_end: 2017-06-30
     summary: |
       GPA: 5.0/5.0
-      
-
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -89,7 +87,6 @@ education:
 #       - Migrated infrastructure to a new data center
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -130,8 +127,7 @@ languages:
     percent: 80
   - name: Bangla
     percent: 100
-
-
+    
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.

@@ -26,10 +26,12 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Contarct
-    url: teaching/
+  # - name: Teaching
+  #   url: teaching/
+  #   weight: 40
+  - name: Contract
+    url: contract/
     weight: 40
-
 
 
 # Navigation Links
