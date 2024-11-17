@@ -6,8 +6,8 @@ title: Tuska Khatun
 name_pronunciation: Tuska Khatun
 
 # Full name (for SEO)
-first_name: Tuska
-last_name: Khatun
+first_name: 
+last_name: 
 
 # Status emoji
 status:
@@ -36,14 +36,15 @@ profiles:
 
   - icon: brands/github
     url: https://github.com/tuska-web
+
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tuska-khatun-b20199330/
+
 interests:
   - Artificial Intelligence
   - Web Design
   - Object-Oriented Programming 
 
-  
 education:
   - area: Computer Science and Engineering
     institution: Jahangirnagor University
@@ -162,7 +163,6 @@ awards:
   #   summary: |
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
 
 ## About Me
  
