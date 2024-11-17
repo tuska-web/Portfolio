@@ -3,7 +3,7 @@
 title: Tuska Khatun
 
 # Name pronunciation (optional)
-name_pronunciation: Tuska Khatun
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: 
