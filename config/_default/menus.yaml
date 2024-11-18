@@ -29,8 +29,8 @@ main:
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
-  - name: Contract
-    url: contract/
+  - name: Contact
+    url: contact/
     weight: 40
 
 
